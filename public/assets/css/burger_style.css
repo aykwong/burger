@@ -1,0 +1,16 @@
+body {
+    background-color: #ffcf00;
+}
+
+#logo {
+    height: 100%;
+    width: 400px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.available, .eaten {
+    margin-bottom: 8px;
+}
