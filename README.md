@@ -11,7 +11,9 @@ npm init -y
 npm i
 npm i express
 npm i path
+npm i mysql
 npm i body-parser
+npm i express-handlebars
 npm i method-override
 ```
 
