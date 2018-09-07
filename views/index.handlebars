@@ -30,7 +30,9 @@
     <ul>
       {{#each burgers}} 
         {{#if devoured}}
+        <li>
           <button class="eaten btn btn-disabled" disabled="disabled">{{ this.burger_name }}</button>
+        </li>
         {{/if}} 
       {{/each}}
     </ul>
