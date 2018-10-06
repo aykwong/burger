@@ -33,6 +33,7 @@ You can run the application using node like so:
 * [JavaScript]
 * [Node.js]
 * [Express]
+* [MySQL]
 
 ## Authors
 
